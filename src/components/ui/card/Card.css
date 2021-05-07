@@ -1,0 +1,7 @@
+.baseCard{
+ background-color: var(--white);
+ margin: 2em auto;   
+ max-width: 600px;
+ padding: 20px;
+ border-radius: var(--radius);
+}

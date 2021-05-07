@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CalculateResult /> should render CalculateResult component without crashing 1`] = `
+<div
+  className="textCenter calculateResult"
+>
+  <Clock
+    renderSecondHand={false}
+    value="11:20"
+  />
+  <div
+    className="logs"
+  >
+    <p>
+      <strong>
+        Selected time:
+      </strong>
+      11:20
+    </p>
+    <p>
+      <strong>
+        Angle:
+      </strong>
+      50
+      (deg)
+    </p>
+  </div>
+</div>
+`;
